@@ -1,0 +1,6 @@
+{
+    "BOOTSTRAP_SERVER" : "******************",
+    "API_KEY" : "******************",
+    "API_SECRET" : "******************",
+    "TOPIC" : "event_data"
+}
