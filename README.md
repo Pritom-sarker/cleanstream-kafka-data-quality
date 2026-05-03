@@ -1,5 +1,9 @@
 # 🚀 Big Data Engineering Learning Journey (Hands-on + Projects)
 
+## 🌐 Live Demo
+
+👉 [Open CleanStream Dashboard](https://cleanstream-kafka-data-quality-apfawttadbehxvwexu84fu.streamlit.app/)
+
 ## 📌 Overview
 
 This repository documents my **end-to-end Big Data Engineering journey**, combining theory + real-world implementation.
